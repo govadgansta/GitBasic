@@ -13,4 +13,11 @@ public class Damnsure {
 		System.out.println("Damn output");
 		
 	}
+	
+	public int sum()
+	{
+		int i=10+5;
+		return i;
+		
+	}
 }
