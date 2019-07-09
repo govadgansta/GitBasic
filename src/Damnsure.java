@@ -11,7 +11,7 @@ public class Damnsure {
 	public void Damn()
 	{
 		System.out.println("Damn output");
-		
+		System.out.println("Dam out from branching developer");
 	}
 	
 	public int sum()
